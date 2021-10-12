@@ -3,7 +3,6 @@
 // ANGKA KELIPATAN 3 DAN 7, 3, 7
 
 #include <iostream>
-
 using namespace std;
 
 int main (){
@@ -25,7 +24,6 @@ int main (){
 }	
 	
 }	
-
 	cout << "Bagi tiga: \n";
 	for(int y=a;y<=b;y++) {
 	if(y%3==0) {
@@ -43,5 +41,5 @@ int main (){
 }	
 	
 }
-
+	return 0;
 }
